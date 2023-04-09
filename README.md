@@ -18,6 +18,8 @@ Objetivo é construir um dashboard que seja possível responder as seguintes per
 
 ## Etapa Python:
 
+[Link Pipeline Figma](https://www.figma.com/file/T3S4HP4TafQHkQfUjESg2g/Evento?node-id=0%3A1&t=QeOpw5xiinfov121-1)
+
 Limpeza dos dados:
 
 - Conferência de dados duplicados;
@@ -33,8 +35,6 @@ Limpeza dos dados:
 # Etapa Power BI:
 
 Visualização dos dados:
-
-
 
 ![image](https://user-images.githubusercontent.com/53667656/228701502-d4777760-ef68-47a4-85e5-f2a4011c7847.png)
 
