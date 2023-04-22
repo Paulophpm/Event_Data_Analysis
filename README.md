@@ -8,8 +8,7 @@ Porém por motivos de LGPD, a base de dados foi modificada para que não fosse c
 ## Objetivo:
 Objetivo é construir um dashboard que seja possível responder as seguintes perguntas:
 
-- Quantidade de pessoas inscrita por palestras;
-- Quantidade de inscritos na palestra x quantidade de pessoas que compareceram;
+- Quantidade de pessoas inscrita;
 - Quantidade de inscritos PCD;
 - Numero total de pesssoas por gênero;
 - Quais são os cursos das pessoas que participaram;
@@ -36,11 +35,10 @@ Como uma boa parte dos dados dos inscritos foram os prórprios inscritos que pre
 - Tratamento dos valores ausentes;
 - Concatenação de colunas;
 
-![image](https://user-images.githubusercontent.com/53667656/228702656-87535e5c-c6db-48a6-b7a1-aaa39272b3d5.png)
-
 # Etapa 2 - Visualização dos Dados (Power BI):
 
 Visualização dos dados:
 
-![image](https://user-images.githubusercontent.com/53667656/228701502-d4777760-ef68-47a4-85e5-f2a4011c7847.png)
+![image](https://user-images.githubusercontent.com/53667656/233812289-d9f8fdeb-ab1d-422c-ad64-95afcb6890de.png)
+
 
