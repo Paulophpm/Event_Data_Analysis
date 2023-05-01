@@ -37,8 +37,11 @@ Como uma boa parte dos dados dos inscritos foram os prórprios inscritos que pre
 
 # Etapa 2 - Visualização dos Dados (Power BI):
 
+Mockup no Figma
+
+https://www.figma.com/file/WoX35lSFOwFijMCDkRe8Nn/Dash?node-id=0%3A1&t=gNLjJBCDLKfxKWtV-1
+
+
 Visualização dos dados:
 
-![image](https://user-images.githubusercontent.com/53667656/233812289-d9f8fdeb-ab1d-422c-ad64-95afcb6890de.png)
-
-
+![image](https://user-images.githubusercontent.com/53667656/235383514-5471051d-4836-4a0c-8d36-a7cc8a2aa1dd.png)
